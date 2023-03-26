@@ -2,8 +2,6 @@
 
 ![Animated](https://user-images.githubusercontent.com/107109450/192131272-3e34ae55-3c04-47cc-a368-a1faa82c48cf.png)
 
-# 2023年3月17日をもちまして開発を終了しました。応援してくださったファンの皆様、本当にありがとうございました。PlasmaLinuxJapan会長Jotch-96こと伊藤 聡
-
 Jotch-96(PlasmaLinuxJapanの会長)が趣味で開発しているLinux、PlasmaLinuxのGithubです。
 
 現在は複数人で開発しています。
