@@ -1,6 +1,8 @@
 # PlasmaLinuxオフィシャルGithubにようこそ!
 
+<!--
 ![Animated](https://user-images.githubusercontent.com/107109450/192131272-3e34ae55-3c04-47cc-a368-a1faa82c48cf.png)
+-->
 
 Jotch-96(PlasmaLinuxJapanの会長)が趣味で開発しているLinux、PlasmaLinuxのGithubです。
 
