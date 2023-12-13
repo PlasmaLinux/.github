@@ -6,7 +6,7 @@
 
 Jotch-96(PlasmaLinuxJapanの会長)が趣味で開発しているLinux、PlasmaLinuxのGithubです。
 
-現在は複数人で開発しています。
+現在は1人で開発しています。
 
 趣味だとしても開発理由はもちろんあります。
 
